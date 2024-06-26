@@ -1,5 +1,9 @@
 Config = {}
 
+-- Vehicle key item
+Config.UseKeyItem = false
+Config.KeyItem = 'vehiclekey'
+
 -- Vehicle lock settings
 Config.LockToggleAnimation = {
     AnimDict = 'anim@mp_player_intmenu@key_fob@',
